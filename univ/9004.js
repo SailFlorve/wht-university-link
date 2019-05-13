@@ -8,7 +8,7 @@ var univ_list = {
 
         name: "杭电主页",
 
-        url: "https://www.hdu.edu.cn/"
+        url: "http://www.hdu.edu.cn/"
 
     }, {
 
